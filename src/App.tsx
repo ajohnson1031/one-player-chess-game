@@ -32,7 +32,7 @@ const App: React.FC = () => {
 
   return (
     <div className='flex-center'>
-      <h1>Random Chess Game</h1>
+      <h1>How About A Nice Game Of Chess?</h1>
 
       <Chessboard
         boardStyle={{
